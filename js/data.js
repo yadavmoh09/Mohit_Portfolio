@@ -42,7 +42,7 @@ var dataExperience = [
     "role": "Automation engineer",
     "working_period": "Oct-2021 To present",
     "company":"Novigo solutions",
-    "company_location":"Bangluru, KA, India"
+    "company_location":"Bangaluru, KA, India"
   }
 ];
 
